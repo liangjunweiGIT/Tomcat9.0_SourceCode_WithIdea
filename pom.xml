@@ -58,5 +58,12 @@
             <artifactId>ecj</artifactId>
             <version>4.4</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/javax.xml.rpc/javax.xml.rpc-api -->
+        <dependency>
+            <groupId>javax.xml.rpc</groupId>
+            <artifactId>javax.xml.rpc-api</artifactId>
+            <version>1.1.1</version>
+        </dependency>
     </dependencies>
 </project>
